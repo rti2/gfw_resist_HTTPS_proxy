@@ -80,9 +80,9 @@
       },
       "settings": {
         "fragment": {
-          "packets": "tlshello",
-          "length": "10-20",
-          "interval": "10-20"
+          "packets": "1-2",
+          "length": "20-50",
+          "interval": "40-50"
         }
       },
       "streamSettings": {
